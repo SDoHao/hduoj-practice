@@ -4,7 +4,7 @@ int main()
     long int x,y;
     while(scanf("%ld %ld",&x,&y)!=EOF)
     {
-        if(x>y//!!!
+        if(x>y)//!!!
         {
             long int tmp=x;x=y;y=tmp;
         }
