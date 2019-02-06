@@ -13,7 +13,6 @@ int main()
             AM++;
             AS-=60;
         }
-
         AM+=BM;
         while(AM>59)
         {
